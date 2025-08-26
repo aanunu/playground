@@ -1,1 +1,2 @@
-Ini adalah repo latihan Git workflow pertama saya
+Ini adalah repo latihan Git workflow pertama saya.
+Repo ini dipakai untuk latihan kolaborasi Git (versi v2).
